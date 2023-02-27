@@ -4,6 +4,9 @@ using ShapeIntersectionEngine.ThreeDimensionalObjects;
 
 namespace ShapeIntersectionTests
 {
+    /// <summary>
+    /// Tests to verify input parser ability to reject invalid input and correctly parse well-formed inputs
+    /// </summary>
     public class InputParserTests
     {
         [Theory]

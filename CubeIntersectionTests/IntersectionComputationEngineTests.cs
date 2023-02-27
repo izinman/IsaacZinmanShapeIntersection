@@ -3,6 +3,9 @@ using ShapeIntersectionEngine.IntersectionComputation;
 
 namespace ShapeIntersectionTests
 {
+    /// <summary>
+    /// Tests to verify correctness of intersection calculation
+    /// </summary>
     public class IntersectionComputationEngineTests
     {
         [Theory]

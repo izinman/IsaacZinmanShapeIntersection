@@ -36,7 +36,7 @@
             return new Vector3(left.X - right.X, left.Y - right.Y, left.Z - right.Z);
         }
 
-        public override bool Equals(object otherObject)
+        public override bool Equals(object? otherObject)
         {
             return Equals(otherObject as Vector3);
         }
